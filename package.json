@@ -1,0 +1,23 @@
+{
+  "name": "homework-10",
+  "version": "1.0.0",
+  "description": "This is an team profile generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masterkaizer/homework-10.git"
+  },
+  "author": "Brandon J Sellam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/masterkaizer/homework-10/issues"
+  },
+  "homepage": "https://github.com/masterkaizer/homework-10#readme",
+  "dependencies": {
+    "inquirer": "^7.1.0",
+    "jest": "^26.0.1"
+  }
+}
